@@ -36,5 +36,29 @@ Serviços em versão prévia são serviços em desenvolvimento pela microfost qu
 os serviços da azure tem valores de SLA que iniciam em 99% de disponibilidade e podendo chegar a 99,999% de garantia de disponibilidade quanto mais o valor de disponibilidade menos tempo de inatitividade dentro de um período de um mês/ano irá ocorrer. Sendo isto uma garantia da azure. No caso de ocorrer indisponibilidade maior que o acordado pelo SLA do serviço utilizado na azure. A azure disponibilizar em forma de voucher descontos para faturas disponível.
 O uso adequado de regiões e zonas de disponibilidade podem influenciar na disponibilidade de um serviço. Por isso também é adequado se antentar nestas configurações. Além de influenciar também nos custos. 
 
+#### Modelo de Cobrança em Nuvem
+Ao comparar modelos de infraestrutura de TI, há dois tipos de despesas a serem consideradas. CapEx (despesas de capital) e OpEx (despesas operacionais).
+
+A **CapEx** normalmente é uma despesa inicial única para comprar ou proteger recursos tangíveis. Um prédio novo, a repavimentação do estacionamento, a construção de um datacenter ou a compra de um veículo da empresa são exemplos de CapEx.
+
+Ao contrário, a **OpEx** é o gasto de capital em serviços ou produtos ao longo do tempo. O aluguel de um centro de convenções, o leasing de um veículo da empresa ou a assinatura de **serviços de nuvem são exemplos de OpEx**.
+
+## IaaS
+IaaS (Infraestrutura como Serviço) : a maior responsabilidade está no consumidor, o provedor fica responsável por questões básicas de segurança física, energia e conectividade. 
+
+## SaaS 
+SaaS (Software como Serviço) : a maior parte da responsabilidade está no provedor.
+
+O SaaS (software como serviço) é o modelo de serviço de nuvem mais completo do ponto de vista do produto. Com o SaaS, você está essencialmente alugando ou usando um aplicativo totalmente desenvolvido. Email, software financeiro, aplicativos de mensagens e software de conectividade são exemplos comuns de uma implementação de SaaS.
+
+Embora o modelo de SaaS possa ser o menos flexível, ele também é o mais fácil de colocar em funcionamento. Ele requer a menor quantidade de conhecimento técnico ou experiência para o emprego total.
+
+## PaaS 
+PaaS (Plataforma como Serviço): sendo um meio termo entre IaaS e SaaS, situa-se no meio desses dois cenários e distribui uniformemente a responsabilidade entre o provedor de nuvem e o consumidor.
+
+O PaaS (Plataforma como serviço) é um meio termo entre alugar espaço em um datacenter (infraestrutura como serviço) e pagar uma solução completa e implantada (software como serviço). Em um ambiente de PaaS, o provedor de nuvem mantém a infraestrutura física, a segurança física e a conexão com a Internet. Ele também mantém os sistemas operacionais, o middleware, as ferramentas de desenvolvimento e os serviços de business intelligence que compõem uma solução de nuvem. Em um cenário de PaaS, você não precisa se preocupar com o licenciamento nem com a aplicação de patch em sistemas operacionais e bancos de dados.
+
+O PaaS é adequado para fornecer um ambiente de desenvolvimento completo sem a preocupação de manter toda a infraestrutura de desenvolvimento.
+
 
 
